@@ -1,6 +1,6 @@
 ### Hi, I'm Jennifer Fiorini 👋 | Aspiring Software Engineer
 
-Focused on AI-driven Cybersecurity solutions with Python and Azure.
+focused on AI-driven Cybersecurity solutions with Python and Azure.
 
 🔭 Currently building:
 - Secure SDLC pipelines on Azure DevOps with Trivy, Checkmarx & GitHub Advanced Security
