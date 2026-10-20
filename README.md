@@ -9,7 +9,7 @@ Focused on AI-driven Cybersecurity solutions with Python and Azure.
 
 🛠️ Tech Stack: Python | TensorFlow | PyTorch | Microsoft Azure | Azure DevOps | Docker | Git | Secure SDLC
 
-🎯 Goal: Junior Software Engineer / AI Engineer in a global company with L-1 path to Chicago
+🎯 Objective: Junior Software Engineer / AI Security Engineer | Focused on securing the cloud SDLC using AI and Azure | Open to global opportunities
 
 📍 Belo Horizonte, Brazil | Open to Remote/Hybrid
 🔗 LinkedIn: linkedin.com/in/jennifer-fiorini-8b0875444
