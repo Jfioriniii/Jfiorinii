@@ -11,5 +11,5 @@ focused on AI-driven Cybersecurity solutions with Python and Azure.
 
 🎯 Objective: Junior Software Engineer / AI Security Engineer | Focused on securing the cloud SDLC using AI and Azure | Open to global opportunities
 
-📍 Belo Horizonte, Brazil | Open to Remote/Hybrid
+📍 Belo Horizonte, Brazil /Hybrid
 🔗 LinkedIn: linkedin.com/in/jennifer-fiorini-8b0875444
