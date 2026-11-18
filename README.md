@@ -1,4 +1,4 @@
-### Hi, I'm Jennifer Fiorini 👋 | Software Engineer
+### Hi, I'm Jennifer 👋 | Software Engineer
 
 focused on AI-driven Cybersecurity solutions with Python and Azure.
 
